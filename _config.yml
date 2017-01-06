@@ -9,38 +9,17 @@ description: "Portfolio of work by Melanie Gershman, a full-stack web developer 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
+- name: Melanie Gershman
   pic: 3
-  position: Lead Developer
+  position: Full-Stack Developer
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: http://twitter.com/mel_install
+    - title: linkedin
+      url: https://www.linkedin.com/in/melaniegershman
+    - title: github
+      url: http://github.com/melaniegershman
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

@@ -1,15 +1,15 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Gif Overflow
+subtitle: Website Design, Ruby, Agile Workflow, HTML5, CSS3
 layout: default
 modal-id: 3
-date: 2014-07-16
+date: 2016-11-16
 img: golden.png
 thumbnail: golden-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: November 2016
+client:
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: A Stack Overflow clone built in four days that allows users to request and post the perfect gif.
 
 ---
