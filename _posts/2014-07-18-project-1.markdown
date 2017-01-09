@@ -1,15 +1,16 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Snap+Style+Shop
+subtitle: Website Design, Ruby, Javascript, Agile Workflow, HTML5, CSS3, Bootstrap
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+date: 2016-12-23
+img: SnapStyleShop.png
+thumbnail: SnapStyleShop.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: December 2016
+client:
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: A website built in one week that allows users to upload a photo of a clothing item and find similar options at a range of prices and retailers by using the Google Vision and ShopStyle APIs. Technologies used include Ruby on Rails, Javascript, AJAX, jQuery, HTML5, CSS, and Bootstrap.
+external-url: https://snapstyleshop.herokuapp.com/
 
 ---

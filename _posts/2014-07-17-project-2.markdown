@@ -1,15 +1,15 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Drag Racer
+subtitle: Website Design, Agile Workflow, HTML5, CSS3, Javascript, Computer Game, Front-End
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+date: 2016-11-17
+img: DragRacer.png
+thumbnail: DragRacer.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: November 2016
+client:
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description: A short and sweet two-person racing game built using Javascript, HTML5, and CSS3.
+external-url: https://dixonscottr.github.io/drag-racer/index.html
 ---

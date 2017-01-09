@@ -176,7 +176,9 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: "Montserrat",Helvetica,Arial,sans-serif;
+    text-transform: uppercase;
+    font-weight: bolder;
     color: #{{ site.data.template.color.primary }};
 }
 
