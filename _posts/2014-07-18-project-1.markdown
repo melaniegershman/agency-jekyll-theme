@@ -1,6 +1,6 @@
 ---
 title: Snap+Style+Shop
-subtitle: Ruby, Javascript
+subtitle: Website Design, Ruby, Javascript, Agile Workflow, HTML5, CSS3, Bootstrap
 layout: default
 modal-id: 1
 date: 2016-12-23

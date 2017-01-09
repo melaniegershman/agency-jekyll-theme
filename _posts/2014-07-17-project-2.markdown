@@ -1,6 +1,6 @@
 ---
 title: Drag Racer
-subtitle: Javascript, Computer Game, Front-End
+subtitle: Website Design, Agile Workflow, HTML5, CSS3, Javascript, Computer Game, Front-End
 layout: default
 modal-id: 2
 date: 2016-11-17
@@ -11,5 +11,5 @@ project-date: November 2016
 client:
 category: Web Development
 description: A short and sweet two-person racing game built using Javascript, HTML5, and CSS3.
-
+external-url: https://dixonscottr.github.io/drag-racer/index.html
 ---

@@ -18,15 +18,15 @@
                             <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
                                 <li>
-                                    <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
+                                    <strong><a href="{{ post.external-url }}">{{ post.client }}</a>
                                     </strong>
                                 </li>
                                 <li>Date:
                                     <strong><a href="{{ post.external-url }}">{{ post.project-date }}</a>
                                     </strong>
                                 </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
+                                <li>Category:
+                                    <strong>{{ post.category }}
                                     </strong>
                                 </li>
                             </ul>
