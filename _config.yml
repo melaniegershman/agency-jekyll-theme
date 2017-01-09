@@ -1,5 +1,6 @@
-url: https://melaniegershman.github.io/
-baseurl: /
+url: https://melaniegershman.github.io
+# baseurl: /
+repository: melaniegershman/melaniegershman.github.io
 
 # Site settings
 title: Melanie Gershman
