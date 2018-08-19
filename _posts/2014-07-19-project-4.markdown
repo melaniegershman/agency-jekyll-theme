@@ -1,0 +1,15 @@
+---
+title: Find Yr Gif
+subtitle: React, Axios, Giphy API
+layout: default
+modal-id: 3
+date: 2017-08-17
+img: find-yr-gif.png
+thumbnail: find-yr-gif.png
+alt: image-alt
+project-date: August 2017
+client:
+category: Web Development
+description: A small React app that finds you 25 perfect gifs.
+
+---
